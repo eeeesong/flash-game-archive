@@ -21,11 +21,11 @@
 
 ||타이틀 이미지|게임 이미지|플레이 링크|
 |---|-----|---------|--------|
-|**1p**|<img src=https://user-images.githubusercontent.com/72188416/133222993-94f2173b-03e7-40cf-bb47-eb0abf46a929.PNG width=160>|<img src=https://user-images.githubusercontent.com/72188416/133223101-37941876-5bf4-4ccb-b574-777e1c9ea610.PNG width=160>|comming soon!|
+|**1p**|<img src=https://user-images.githubusercontent.com/72188416/133222993-94f2173b-03e7-40cf-bb47-eb0abf46a929.PNG width=160>|<img src=https://user-images.githubusercontent.com/72188416/133223101-37941876-5bf4-4ccb-b574-777e1c9ea610.PNG width=160>|[주전자닷컴](http://www.zuzunza.com/myflash/game_detail_writer.html?game_id=589457&category=1&writer=&menu=&cp=1&p=&y=&returnURL=/wroom.html?writer=moc01036)|
 
 ||타이틀 이미지|게임 이미지|플레이 링크|
 |---|-----|---------|---------|
-|**2p**|<img src=https://user-images.githubusercontent.com/72188416/133223110-9ebd23a3-2707-4f73-863b-f2e4cc50a27c.PNG width=160>|<img src=https://user-images.githubusercontent.com/72188416/133223118-f646131b-4087-4d03-8911-a51e2db65ddd.PNG width=160>|comming soon!|
+|**2p**|<img src=https://user-images.githubusercontent.com/72188416/133223110-9ebd23a3-2707-4f73-863b-f2e4cc50a27c.PNG width=160>|<img src=https://user-images.githubusercontent.com/72188416/133223118-f646131b-4087-4d03-8911-a51e2db65ddd.PNG width=160>|-|
 
 
 <br>
@@ -42,7 +42,7 @@
 
 |타이틀 이미지|게임 이미지|플레이 링크|
 |-----|---------|--------|
-|<img src=https://user-images.githubusercontent.com/72188416/133224442-39e31aec-0d57-4a09-89ba-e7e18369aa64.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133224450-13c5442e-f7ae-4196-84bc-c06e84247ada.PNG width=200>|comming soon!|
+|<img src=https://user-images.githubusercontent.com/72188416/133224442-39e31aec-0d57-4a09-89ba-e7e18369aa64.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133224450-13c5442e-f7ae-4196-84bc-c06e84247ada.PNG width=200>|[주전자닷컴](http://www.zuzunza.com/myflash/game_detail_writer.html?game_id=254598&category=1&writer=&menu=&cp=1&p=&y=&returnURL=/wroom.html?writer=moc01036)|
 
 <br>
 
@@ -75,7 +75,7 @@
 
 |타이틀 이미지|게임 이미지|플레이 링크|
 |-----|---------|--------|
-|<img src=https://user-images.githubusercontent.com/72188416/133226463-f5063bd0-b825-4bcb-aff7-a488eabb6e35.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133226448-39cc98af-39ba-4050-978b-7e1ed3002a4a.PNG width=200>|comming soon!|
+|<img src=https://user-images.githubusercontent.com/72188416/133226463-f5063bd0-b825-4bcb-aff7-a488eabb6e35.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133226448-39cc98af-39ba-4050-978b-7e1ed3002a4a.PNG width=200>|[주전자닷컴 - 오리지널](http://www.zuzunza.com/myflash/game_detail_writer.html?game_id=27111&category=1&writer=&menu=&cp=2&p=2&y=&returnURL=)<br>[주전자닷컴 - 100배 버전](http://www.zuzunza.com/myflash/game_detail_writer.html?game_id=38110&category=3&writer=&menu=&cp=2&p=2&y=&returnURL=)|
 
 <br>
 
@@ -92,7 +92,7 @@
 
 |타이틀 이미지|게임 이미지|플레이 링크|
 |-----|---------|--------|
-|<img src=https://user-images.githubusercontent.com/72188416/133225041-6551eb23-db92-4674-a5eb-3132f1120513.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133225032-d1e311d1-65ec-477f-8085-6023d0a1cfff.PNG width=200>|comming soon!|
+|<img src=https://user-images.githubusercontent.com/72188416/133225041-6551eb23-db92-4674-a5eb-3132f1120513.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133225032-d1e311d1-65ec-477f-8085-6023d0a1cfff.PNG width=200>|[주전자닷컴](http://www.zuzunza.com/myflash/game_detail_writer.html?game_id=50419&category=1&writer=&menu=&cp=2&p=2&y=&returnURL=)|
 
 <br>
 
@@ -109,7 +109,7 @@
 
 |타이틀 이미지|게임 이미지|플레이 링크|
 |-----|---------|--------|
-|<img src=https://user-images.githubusercontent.com/72188416/133228021-7f88b15e-989e-405f-87bc-4660c1837deb.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133228040-b0aa43a0-b65d-4fe1-bc06-82380d4236c4.PNG width=200>|comming soon!|
+|<img src=https://user-images.githubusercontent.com/72188416/133228021-7f88b15e-989e-405f-87bc-4660c1837deb.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133228040-b0aa43a0-b65d-4fe1-bc06-82380d4236c4.PNG width=200>|[주전자닷컴 - 1탄](http://www.zuzunza.com/myflash/game_detail_writer.html?game_id=18147&category=1&writer=&menu=&cp=3&p=3&y=&returnURL=)<br>[주전자닷컴 - 2탄](http://www.zuzunza.com/myflash/game_detail_writer.html?game_id=19264&category=1&writer=&menu=&cp=3&p=3&y=&returnURL=)|
 
 <br>
 
@@ -124,7 +124,7 @@
 
 |타이틀 이미지|게임 이미지|플레이 링크|
 |-----|---------|--------|
-|<img src=https://user-images.githubusercontent.com/72188416/133228254-412baf18-4681-475f-946d-87d8d186ff0a.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133228261-d0a87edc-7c97-4812-a654-f146dbe5fe30.PNG width=200>|comming soon!|
+|<img src=https://user-images.githubusercontent.com/72188416/133228254-412baf18-4681-475f-946d-87d8d186ff0a.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133228261-d0a87edc-7c97-4812-a654-f146dbe5fe30.PNG width=200>|[주전자닷컴](http://www.zuzunza.com/myflash/game_detail_writer.html?game_id=54155&category=1&writer=&menu=&cp=2&p=2&y=&returnURL=)|
 
 
 <br>
@@ -143,7 +143,7 @@
 
 |타이틀 이미지|게임 이미지|플레이 링크|
 |-----|---------|--------|
-|<img src=https://user-images.githubusercontent.com/72188416/133229005-1458198c-fc6d-4394-a9f6-9ab1c6b3b46a.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133229011-814e698f-81c6-4532-af53-e0d7306988b3.PNG width=200>|comming soon!|
+|<img src=https://user-images.githubusercontent.com/72188416/133229005-1458198c-fc6d-4394-a9f6-9ab1c6b3b46a.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133229011-814e698f-81c6-4532-af53-e0d7306988b3.PNG width=200>|[주전자닷컴](http://www.zuzunza.com/myflash/game_detail_writer.html?game_id=34842&category=1&writer=&menu=&cp=2&p=2&y=&returnURL=)|
 
 <br>
 
@@ -158,7 +158,7 @@
 
 |타이틀 이미지|게임 이미지|플레이 링크|
 |-----|---------|--------|
-|<img src=https://user-images.githubusercontent.com/72188416/133229151-9a141372-c87b-4213-8eeb-9387066adcd3.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133229156-f5b1143c-398a-4be2-bca0-3b98f1bbd25c.PNG width=200>|comming soon!|
+|<img src=https://user-images.githubusercontent.com/72188416/133229151-9a141372-c87b-4213-8eeb-9387066adcd3.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133229156-f5b1143c-398a-4be2-bca0-3b98f1bbd25c.PNG width=200>|[주전자닷컴](http://www.zuzunza.com/myflash/game_detail_writer.html?game_id=84051&category=1&writer=&menu=&cp=1&p=1&y=&returnURL=)|
 
 
 
@@ -180,7 +180,7 @@
 
 |월드 맵 이미지|게임 이미지|플레이 링크|
 |-----|---------|--------|
-|<img src=https://user-images.githubusercontent.com/72188416/133227421-e0572149-f767-448c-8b58-572e9c46819f.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133227416-a473e3a0-31ac-4816-96f3-9dcc0dd2fc34.PNG width=200>|comming soon!|
+|<img src=https://user-images.githubusercontent.com/72188416/133227421-e0572149-f767-448c-8b58-572e9c46819f.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133227416-a473e3a0-31ac-4816-96f3-9dcc0dd2fc34.PNG width=200>|[주전자닷컴](http://www.zuzunza.com/myflash/game_detail_writer.html?game_id=34755&category=1&writer=&menu=&cp=2&p=2&y=&returnURL=)|
 
 
 <br>
@@ -197,6 +197,6 @@
 
 |게임 이미지1|게임 이미지2|플레이 링크|
 |-----|---------|--------|
-|<img src=https://user-images.githubusercontent.com/72188416/133228737-4f71bf79-cbc8-4fa9-acaf-6ae0484b3302.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133228732-c659702a-451c-4ad0-a1fa-58967e9a91be.PNG width=200>|comming soon!|
+|<img src=https://user-images.githubusercontent.com/72188416/133228737-4f71bf79-cbc8-4fa9-acaf-6ae0484b3302.PNG width=200>|<img src=https://user-images.githubusercontent.com/72188416/133228732-c659702a-451c-4ad0-a1fa-58967e9a91be.PNG width=200>|[주전자닷컴](http://www.zuzunza.com/myflash/game_detail_writer.html?game_id=55193&category=1&writer=&menu=&cp=1&p=&y=&returnURL=/wroom.html?writer=moc01036)|
 
 
